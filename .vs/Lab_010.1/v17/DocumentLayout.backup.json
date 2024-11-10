@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A15D9-5D25-4D58-91D4-626230931AE5}|UnitTest0101\\UnitTest0101.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\UnitTest0101\\UnitTest0101.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A8A15D9-5D25-4D58-91D4-626230931AE5}|UnitTest0101\\UnitTest0101.vcxproj|solutionrelative:UnitTest0101\\UnitTest0101.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06575BC-0E04-4846-AC24-5D564029309A}|Lab_010.1.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\Lab_010.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06575BC-0E04-4846-AC24-5D564029309A}|Lab_010.1.vcxproj|solutionrelative:Lab_010.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest0101.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\UnitTest0101\\UnitTest0101.cpp",
+              "RelativeDocumentMoniker": "UnitTest0101\\UnitTest0101.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\UnitTest0101\\UnitTest0101.cpp*",
+              "RelativeToolTip": "UnitTest0101\\UnitTest0101.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T16:52:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_010.1.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\Lab_010.1.cpp",
+              "RelativeDocumentMoniker": "Lab_010.1.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_010.1\\Lab_010.1.cpp",
+              "RelativeToolTip": "Lab_010.1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T15:04:53.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
